@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hamzadev5, a passionate full-stack software engineer proficient in both MERN (MongoDB, Express.js, React.js, Node.js) and MEAN (MongoDB, Express.js, AngularJS, Node.js) stacks.
+- 👀 I’m interested in exploring innovative technologies, building scalable applications, and contributing to open-source projects that push the boundaries of web development.
+- 🌱 I’m currently learning and staying updated with the latest advancements in the MERN and MEAN stacks to continuously enhance my skills and deliver top-notch solutions.
+- 💞️ I’m looking to collaborate on exciting projects that challenge and inspire, fostering a collaborative environment to create impactful and scalable software solutions.
+- 📫 How to reach me: Feel free to connect with me through [LinkedIn](your-linkedin-profile) or drop me an email at [your.email@example.com].
